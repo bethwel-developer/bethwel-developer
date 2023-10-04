@@ -1,6 +1,6 @@
 👋 Hi, I’m Bethwel Muhinja;
 
-a full stack developer based in Kenya.
+A full stack developer based in Kenya.
 .
 
 
